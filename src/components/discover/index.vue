@@ -1,6 +1,6 @@
 <template>
      <div class="discover">
-        发现
+        发现xxxxxxxx
         <div class="dis-container">
 
         </div>
